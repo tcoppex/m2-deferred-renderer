@@ -8,6 +8,7 @@ deferred-renderer-2012
 A full deferred renderer with post-processing pipeline.
 
 Features:
+
     Skydome:
       # GPU Noise Generation for procedurale texturing.
 
